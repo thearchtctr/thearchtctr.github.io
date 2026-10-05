@@ -1,0 +1,4 @@
+User-agent: *
+Allow: 
+
+Sitemap:https://thearchtctr.github.io/sitemap.xml
